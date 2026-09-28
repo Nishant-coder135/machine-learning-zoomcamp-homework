@@ -3,7 +3,7 @@
 This repository contains my weekly homework assignments for the Machine Learning Zoomcamp.
 
 # Repository Structure
-
+```
 machine-learning-zoomcamp-homework/
 |
 |-- .gitignore               # Hidden file to block large data files and cache
@@ -13,7 +13,7 @@ machine-learning-zoomcamp-homework/
 |-- week-01-introduction/    # Module 1: Vectorization, NumPy & Pandas
 |   |-- data/                # Local raw data storage folder (ignored by git)
 |   |-- homework-1.ipynb     # finalized Week 1 notebook file
-
+```
 
 
 # Tech Stack
