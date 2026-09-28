@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --------------------------------------------------
+# Machine Learning Zoomcamp Data Protections
+# --------------------------------------------------
+*.csv
+*.parquet
+*.xlsx
+
